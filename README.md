@@ -39,8 +39,8 @@
 ```lua
 local myFunction = function(str) os.execute("sleep 1"); print(str) end
 local wrappedCoroutine = coroutine.wrap(myFunction)
-print("Async:")
 wrappedCoroutine("Hello, world!")
+print("Async:")
 ```
 
 ---
