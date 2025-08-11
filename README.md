@@ -33,8 +33,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=tokyonight)
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Estatic&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Estatic&layout=compact&theme=tokyonight)
 
 ---
 
