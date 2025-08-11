@@ -36,6 +36,13 @@
 ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Estatic&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Estatic&layout=compact&theme=tokyonight)
 
+```lua
+local myFunction = function(str) os.execute("sleep 1"); print(str) end
+local wrappedCoroutine = coroutine.wrap(myFunction)
+print("Async:")
+wrappedCoroutine("Hello, world!")
+```
+
 ---
 
 ## 📬 Contato
