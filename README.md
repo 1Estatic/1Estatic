@@ -28,6 +28,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-009C43?logo=node.js&logoColor=white)
 
 ---
 
