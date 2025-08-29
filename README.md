@@ -47,7 +47,7 @@ print("Async:")
 
 ## 📬 Contato
 
-✉ **E-mail:** [estaticcorporation@gmail.com](mailto:estaticcorporation@gmail.com)  
+✉ **E-mail:** [corporationestatic@gmail.com](mailto:corporationestatic@gmail.com)  
 
 ---
 
