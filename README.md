@@ -12,7 +12,7 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-8A2BE2?logo=.net&logoColor=white)
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
   ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
   ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
