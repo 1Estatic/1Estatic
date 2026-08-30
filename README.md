@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Andrey Alexander Souto Bezerra de Andrade
 
-💻 **Computer Scientist** | 🚀 **Full Stack Developer**
+💻 **Computer Scientist - UFS**  | 🚀 **Full Stack Developer**
 📚 Passionate about learning new languages and technologies, with the ability to adapt easily to any stack.
 🎯 Always exploring everything from robust **back-end** development to interactive and responsive **front-end** design.
 
